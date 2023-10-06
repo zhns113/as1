@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package FactoryPattern;
 
 public abstract class Computer {
 
@@ -13,4 +13,3 @@ public abstract class Computer {
         return "RAM= "+this.getRAM()+", HDD="+this.getHDD()+", CPU="+this.getCPU();
     }
 }
-

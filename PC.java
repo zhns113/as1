@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package FactoryPattern;
 
 public class PC extends Computer {
 
@@ -31,4 +31,3 @@ public class PC extends Computer {
         return this.cpu;
     }
 }
-
